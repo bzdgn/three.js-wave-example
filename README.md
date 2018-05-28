@@ -11,7 +11,7 @@ Here down below, a simple gif-record of the screen;
 	<img src="https://github.com/bzdgn/three.js-wave-example/blob/master/screen-shots/demo.gif" alt="game-of-life-1">
 </p>
 
-Here are some screen shots for different Cell Size's;
+Here are some screen shots;
 
 <p align="center">
 	<img src="https://github.com/bzdgn/three.js-wave-example/blob/master/screen-shots/ss_01.png" alt="game-of-life-1">
